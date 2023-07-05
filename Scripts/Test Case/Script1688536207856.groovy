@@ -19,3 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WS.sendRequest(findTestObject('post'))
 
+WS.sendRequest(findTestObject('put'))
+
+WS.sendRequest(findTestObject('get'))
+
+WS.sendRequest(findTestObject('Service Request'))
+
+WS.sendRequest(findTestObject('delete'))
+
